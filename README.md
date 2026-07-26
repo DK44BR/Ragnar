@@ -1,4 +1,3 @@
-# Ragnar
 # 🤖 Ragnar
 
 > Plataforma modular de IA e Robótica baseada em ESP32, Raspberry Pi e Inteligência Artificial.
