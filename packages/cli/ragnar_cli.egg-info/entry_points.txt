@@ -1,0 +1,2 @@
+[console_scripts]
+ragnar = ragnar.__main__:main
