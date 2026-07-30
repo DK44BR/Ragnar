@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Linux
+.DS_Store
